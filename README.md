@@ -1,4 +1,4 @@
-# NourishAI — Smart Recipe & Meal Plan Recommender v5
+# NourishAI — Smart Recipe & Meal Plan Recommender v5 - https://mealplanner-92.streamlit.app/
 
 A beautiful, AI-powered meal planning app built with Streamlit.
 
